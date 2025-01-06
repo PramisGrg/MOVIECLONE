@@ -24,9 +24,6 @@ If you want to run it locally, then follow these steps.
 
 ![Trending Page](captures/Trendingpage.png)
 
-## Discover Page
-
-![Discover Page](captures/Discoverpage.png)
 
 ## People Page
 
